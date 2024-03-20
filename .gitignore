@@ -1,12 +1,12 @@
 # SA Frontend ignored files
 node_modules/
-**/sa-frontend/build/
+#**/sa-frontend/build/
 
 # SA Logic ignored files
 venv/
 
 # SA WebApp ignored files
-target/
+#target/
 .mvn/
 !**/maven-wrapper.jar
 
